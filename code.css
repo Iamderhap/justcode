@@ -1,0 +1,16 @@
+* {box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+ h1{
+font-family: Arial, sans-serif;
+background-color: #eded31d6;
+color: #333;
+font-size: 24px;
+ }
+ link[rel="facebook"] {
+  display: block;
+  margin-top: 10px;
+  color: #3b5998;
+  text-decoration: none;
+ }
